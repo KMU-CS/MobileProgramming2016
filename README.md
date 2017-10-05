@@ -6,4 +6,4 @@ This repository contains the documents and information for MobileProgramming 201
 
 이 Repository는 2016년 모바일프로그래밍 수업을 위한 Repository로서 더 이상 운영하지 않습니다.
 
-문의는 sslim@kookmin.ac.kr 로 해주세요.
+문의는 sungsoo.lim@gmail.com 으로 해주세요.
